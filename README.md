@@ -10,15 +10,15 @@
 </h1>
 
 
-  <img align='right' src="https://github.com/rogerrendons/rogerrendons/blob/main/Programmer.gif" width="200">
+  <img align='right' src="https://github.com/ElianaGomez2020/rogerrendons/blob/main/Programmer.gif" width="200">
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerrendons)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElianaGomez2020)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerrendons)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElianaGomez2020)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerrendons&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElianaGomez2020&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
