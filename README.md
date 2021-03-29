@@ -10,7 +10,7 @@
 </h1>
 
 
-  <img align='right' src=https://github.com/ElianaGomez2020/ElianaGomez2020/blob/main/GITHUB.gif width="200">
+  <img align='right' src=https://github.com/ElianaGomez2020/ElianaGomez2020/blob/main/GITHUB.gif width="400">
 </p>
 
 
