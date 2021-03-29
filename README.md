@@ -1,6 +1,6 @@
 <h1 align="center">Eliana Gomez GitHub</h1>
 
-<h1 align="center"><img src=https://github.com/ElianaGomez2020/ElianaGomez2020/blob/main/GITHUB.gif width="30"/></h2> Hello...
+<h1 align="center"></></h2> Hello...
   
   Welcome to my GitHub
   
@@ -10,7 +10,7 @@
 </h1>
 
 
-  <img align='right' src="https://github.com/ElianaGomez2020/rogerrendons/blob/main/Programmer.gif" width="200">
+  <img align='right' src=https://github.com/ElianaGomez2020/ElianaGomez2020/blob/main/GITHUB.gif width="200">
 </p>
 
 
