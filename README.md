@@ -1,6 +1,6 @@
 <h1 align="center">Eliana Gomez GitHub</h1>
 
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2> Hello...
+<h1 align="center"><img src=https://github.com/ElianaGomez2020/ElianaGomez2020/blob/main/GITHUB.gif width="30"/></h2> Hello...
   
   Welcome to my GitHub
   
