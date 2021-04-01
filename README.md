@@ -1,5 +1,5 @@
 
-<img align='center' src=https://github.com/ElianaGomez2020/ElianaGomez2020/blob/main/GITHUB.gif width="400">
+<p align='center'><imgsrc=https://github.com/ElianaGomez2020/ElianaGomez2020/blob/main/GITHUB.gif width="400"></p>
 <h1 align="center">Eliana Gomez's GitHub</h1>
 <h2 align="center">
   
