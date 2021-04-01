@@ -1,7 +1,6 @@
 
+<img align='center' src=https://github.com/ElianaGomez2020/ElianaGomez2020/blob/main/GITHUB.gif width="400">
 <h1 align="center">Eliana Gomez's GitHub</h1>
-
-  <img align='center' src=https://github.com/ElianaGomez2020/ElianaGomez2020/blob/main/GITHUB.gif width="400">
 <h2 align="center">
   
   Hello...
