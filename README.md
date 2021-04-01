@@ -1,19 +1,19 @@
-<h1 align="center">Eliana Gomez GitHub</h1>
 
+
+<h1 align="center">Eliana Gomez's GitHub</h1>
+  <img align='center' src=https://github.com/ElianaGomez2020/ElianaGomez2020/blob/main/GITHUB.gif width="400">
 <h2 align="center">
   
   Hello...
   
   Welcome to my GitHub
-  
   I hope that will be of interest
-  
   here you will find something about my work
 </h2>
 
 
-  <img align='center' src=https://github.com/ElianaGomez2020/ElianaGomez2020/blob/main/GITHUB.gif width="400">
-</p>
+
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElianaGomez2020)](https://github.com/anuraghazra/github-readme-stats)
