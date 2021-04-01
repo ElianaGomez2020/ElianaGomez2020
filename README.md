@@ -19,34 +19,12 @@
 
 
 
-
-
-
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElianaGomez2020)](https://github.com/anuraghazra/github-readme-stats)-->
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElianaGomez2020)](https://github.com/anuraghazra/github-readme-stats))-->
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElianaGomez2020&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
-
-<!--[](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)-->
-
-
-
-
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerrendons&layout=compact&theme=vue&langs_count=6" alt="My github stats"/>
-</p>
-<p align="center">
-  <a href="https://sourcerer.io/juansedev" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_sourcerer.png" alt="My programming skills" height="100" width="100" /></a>
-</p>
 <h3>Where to find me</h3>
 
 <p>
   <a href="https://github.com/ElianaGomez2020" target="_blank"><img alt="Github" src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151" />
-  </a> <a href="https://twitter.com/rogerrendons" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rogerrendons" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> <a href="https://medium.com/rogerrendons" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  </a> <a href="https://twitter.com/ElianaG2020" target="_blank"><img alt="Twitter" src="https://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png?1450733056" /></a><a href="https://www.linkedin.com/in/eliana-gomez-suarez/?locale=en_US" target="_blank"><img alt="LinkedIn" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />
+  </a> <a href="https://elianagomez.medium.com" target="_blank"><img alt="Medium" src="https://emojis.slackmojis.com/emojis/images/1538663342/4762/medium.png?1538663342" /></a>
 </p>
 
 <!--### Hi there 👋
