@@ -9,7 +9,7 @@
   Hello...
   
   <p align='center'>
-  <img src=https://emojis.slackmojis.com/emojis/images/1542340470/4976/perfect.gif?1542340470 width="100">
+  <img src=https://emojis.slackmojis.com/emojis/images/1542340470/4976/perfect.gif?1542340470 width="50">
 </p>
   
   Welcome to my GitHub, I hope it will be of interest to you
@@ -32,11 +32,6 @@
 
 
 
-
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rogerrendons&theme=vue&show_icons=true" alt="My github stats" />
-</p>
 
 <!--
 <p align="center">
