@@ -24,7 +24,7 @@
 <p>
   <a href="https://github.com/ElianaGomez2020" target="_blank"><img alt="Github" src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151" />
   </a> <a href="https://twitter.com/ElianaG2020" target="_blank"><img alt="Twitter" src="https://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png?1450733056" /></a><a href="https://www.linkedin.com/in/eliana-gomez-suarez/?locale=en_US" target="_blank"><img alt="LinkedIn" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />
-  </a> <a href="https://elianagomez.medium.com" target="_blank"><img alt="Medium" src="https://emojis.slackmojis.com/emojis/images/1538663342/4762/medium.png?1538663342" /></a>
+  </a> <a href="https://elianagomez.medium.com" target="_blank"><img alt="Medium" src="https://emojis.slackmojis.com/emojis/images/1538663342/4762/medium.png?1538663342" width="50" /></a>
 </p>
 
 <!--### Hi there 👋
