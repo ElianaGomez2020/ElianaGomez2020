@@ -19,7 +19,7 @@
 
 
 
-<h3>Where to find me</h3>
+<h3>Where to find me:</h3>
 
 <p align='center'>
   <a href="https://github.com/ElianaGomez2020" target="_blank"><img alt="Github" src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151" width="50" />
