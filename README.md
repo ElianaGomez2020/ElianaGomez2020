@@ -25,11 +25,10 @@
 
 
 
-<!--
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rogerrendons&theme=vue&show_icons=true" alt="My github stats" />
 </p>
--->
 
 <!--
 <p align="center">
