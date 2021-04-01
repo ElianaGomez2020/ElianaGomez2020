@@ -33,7 +33,7 @@
 
 
 
-<!--
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerrendons&layout=compact&theme=vue&langs_count=6" alt="My github stats"/>
 </p>
@@ -41,13 +41,15 @@
   <a href="https://sourcerer.io/juansedev" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_sourcerer.png" alt="My programming skills" height="100" width="100" /></a>
 </p>
 <h3>Where to find me</h3>
+
 <p>
-  <a href="https://github.com/rogerrendons" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  <a href="https://github.com/ElianaGomez2020" target="_blank"><img alt="Github" src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151" />
   </a> <a href="https://twitter.com/rogerrendons" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rogerrendons" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> <a href="https://medium.com/rogerrendons" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-### Hi there 👋
+
+<!--### Hi there 👋
 **rogerrendons/rogerrendons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
