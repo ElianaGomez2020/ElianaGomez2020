@@ -1,7 +1,7 @@
 <h1 align="center">Eliana Gomez's GitHub</h1>
 
 <p align='center'>
-  <img src=https://github.com/ElianaGomez2020/ElianaGomez2020/blob/main/GITHUB.gif width="400">
+  <img src=https://github.com/ElianaGomez2020/ElianaGomez2020/blob/main/GITHUB.gif width="500">
 </p>
 
 <h2 align="center">
@@ -9,7 +9,7 @@
   Hello...
   
   <p align='center'>
-  <img src=https://emojis.slackmojis.com/emojis/images/1576133832/7296/babyyoda.png?1576133832 width="400">
+  <img src=https://emojis.slackmojis.com/emojis/images/1542340470/4976/perfect.gif?1542340470 width="100">
 </p>
   
   Welcome to my GitHub, I hope it will be of interest to you
