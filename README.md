@@ -1,6 +1,8 @@
 <h1 align="center">Eliana Gomez GitHub</h1>
 
-<h1 align="center"></></h2> Hello...
+<h1 align="center">
+  
+  Hello...
   
   Welcome to my GitHub
   
