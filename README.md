@@ -20,9 +20,10 @@
 
 
 <h3>Where to find me:</h3>
-  <a href="https://www.linkedin.com/in/eliana-gomez-suarez/?locale=en_US" target="_blank"><img alt="LinkedIn" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" width="50" />
-  </a>
+
 <p align='center'>
+    <a href="https://www.linkedin.com/in/eliana-gomez-suarez/?locale=en_US" target="_blank"><img alt="LinkedIn" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" width="50" />
+  </a>
    <a href="mailto:elianagomez.s@outlook.com" target="_blank"><img alt="outlook" src="https://emojis.slackmojis.com/emojis/images/1531855342/4249/outlook.png?1531855342" width="50" />
   </a>
     <a href="https://elianagomez.medium.com" target="_blank"><img alt="Medium" src="https://emojis.slackmojis.com/emojis/images/1538663342/4762/medium.png?1538663342" width="50" />
