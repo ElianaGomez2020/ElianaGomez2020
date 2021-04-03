@@ -20,27 +20,15 @@
 
 
 <h3>Where to find me:</h3>
-
+  <a href="https://www.linkedin.com/in/eliana-gomez-suarez/?locale=en_US" target="_blank"><img alt="LinkedIn" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" width="50" />
+  </a>
 <p align='center'>
-   <a href="mailto:/elianagomez.s@outlook.com" target="_blank"><img alt="outlook" src="https://emojis.slackmojis.com/emojis/images/1531855342/4249/outlook.png?1531855342" width="50" />
+   <a href="mailto:elianagomez.s@outlook.com" target="_blank"><img alt="outlook" src="https://emojis.slackmojis.com/emojis/images/1531855342/4249/outlook.png?1531855342" width="50" />
+  </a>
+    <a href="https://elianagomez.medium.com" target="_blank"><img alt="Medium" src="https://emojis.slackmojis.com/emojis/images/1538663342/4762/medium.png?1538663342" width="50" />
   </a>
   <a href="https://twitter.com/ElianaG2020" target="_blank"><img alt="Twitter" src="https://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png?1450733056" width="50" />
   </a>
-  <a href="https://www.linkedin.com/in/eliana-gomez-suarez/?locale=en_US" target="_blank"><img alt="LinkedIn" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" width="50" />
-  </a> 
-  <a href="https://elianagomez.medium.com" target="_blank"><img alt="Medium" src="https://emojis.slackmojis.com/emojis/images/1538663342/4762/medium.png?1538663342" width="50" />
-  </a>
+ 
 </p>
 
-<!--### Hi there 👋
-**rogerrendons/rogerrendons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
