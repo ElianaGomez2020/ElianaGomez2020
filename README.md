@@ -22,6 +22,8 @@
 <h3>Where to find me:</h3>
 
 <p align='center'>
+   <a href="https:/www.outlook.com/elianagomez.s@outlook.com" target="_blank"><img alt="outlook" src="https://emojis.slackmojis.com/emojis/images/1531855342/4249/outlook.png?1531855342" width="50" />
+  </a>
   <a href="https://twitter.com/ElianaG2020" target="_blank"><img alt="Twitter" src="https://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png?1450733056" width="50" />
   </a>
   <a href="https://www.linkedin.com/in/eliana-gomez-suarez/?locale=en_US" target="_blank"><img alt="LinkedIn" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" width="50" />
